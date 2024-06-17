@@ -1,0 +1,3 @@
+- A VR game project with Dolby Atmos sound for Oculus
+- Made during the Finnish Game Jam 2024
+- Part of the Global Game Jam 2024
